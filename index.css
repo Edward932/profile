@@ -1,0 +1,30 @@
+.colored {
+    font-size: 100px;
+}
+
+li {
+    list-style: none;
+}
+
+.actions__skills {
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+    gap: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.project_img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+}
